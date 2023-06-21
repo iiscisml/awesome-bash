@@ -101,10 +101,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
 - [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
 
-## Website
-
-- [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
-- [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
 
 ## Shell Package Management
 
